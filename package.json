@@ -1,0 +1,23 @@
+{
+  "name": "truck-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandromoralesjr/truck-icons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandromoralesjr/truck-icons/issues"
+  },
+  "homepage": "https://github.com/alejandromoralesjr/truck-icons#readme",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
